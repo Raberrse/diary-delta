@@ -1,0 +1,16 @@
+C:\Users\Papoušek Adam\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Škola\Algoritmy\Diary\bin\Debug\net5.0\Diary.exe
+C:\Users\Papoušek Adam\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Škola\Algoritmy\Diary\bin\Debug\net5.0\Diary.deps.json
+C:\Users\Papoušek Adam\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Škola\Algoritmy\Diary\bin\Debug\net5.0\Diary.runtimeconfig.json
+C:\Users\Papoušek Adam\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Škola\Algoritmy\Diary\bin\Debug\net5.0\Diary.runtimeconfig.dev.json
+C:\Users\Papoušek Adam\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Škola\Algoritmy\Diary\bin\Debug\net5.0\Diary.dll
+C:\Users\Papoušek Adam\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Škola\Algoritmy\Diary\bin\Debug\net5.0\Diary.pdb
+C:\Users\Papoušek Adam\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Škola\Algoritmy\Diary\obj\Debug\net5.0\Diary.csproj.AssemblyReference.cache
+C:\Users\Papoušek Adam\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Škola\Algoritmy\Diary\obj\Debug\net5.0\Diary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Papoušek Adam\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Škola\Algoritmy\Diary\obj\Debug\net5.0\Diary.AssemblyInfoInputs.cache
+C:\Users\Papoušek Adam\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Škola\Algoritmy\Diary\obj\Debug\net5.0\Diary.AssemblyInfo.cs
+C:\Users\Papoušek Adam\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Škola\Algoritmy\Diary\obj\Debug\net5.0\Diary.csproj.CoreCompileInputs.cache
+C:\Users\Papoušek Adam\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Škola\Algoritmy\Diary\obj\Debug\net5.0\Diary.dll
+C:\Users\Papoušek Adam\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Škola\Algoritmy\Diary\obj\Debug\net5.0\refint\Diary.dll
+C:\Users\Papoušek Adam\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Škola\Algoritmy\Diary\obj\Debug\net5.0\Diary.pdb
+C:\Users\Papoušek Adam\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Škola\Algoritmy\Diary\obj\Debug\net5.0\Diary.genruntimeconfig.cache
+C:\Users\Papoušek Adam\OneDrive - DELTA - SŠIE, s.r.o\Dokumenty\Škola\Algoritmy\Diary\obj\Debug\net5.0\ref\Diary.dll
